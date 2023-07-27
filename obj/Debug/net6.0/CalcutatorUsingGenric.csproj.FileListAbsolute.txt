@@ -1,0 +1,15 @@
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\bin\Debug\net6.0\CalcutatorUsingGenric.exe
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\bin\Debug\net6.0\CalcutatorUsingGenric.deps.json
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\bin\Debug\net6.0\CalcutatorUsingGenric.runtimeconfig.json
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\bin\Debug\net6.0\CalcutatorUsingGenric.dll
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\bin\Debug\net6.0\CalcutatorUsingGenric.pdb
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.dll
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\refint\CalcutatorUsingGenric.dll
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.pdb
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\CalcutatorUsingGenric.genruntimeconfig.cache
+C:\Users\Jayant\Desktop\C# Workspace\CalcutatorUsingGenric\obj\Debug\net6.0\ref\CalcutatorUsingGenric.dll
